@@ -198,7 +198,6 @@ def logo():
 ### MENU ###
 def menu_dev():
 	logo()
-                                  [PUTRA-XD]
         print(" []---------------------------------------------	
 	print(" [] Bergabung   : %s"%(tgl))
 	print(" [] Github      : github.com/Putra-XD")

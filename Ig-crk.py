@@ -198,6 +198,7 @@ def logo():
 ### MENU ###
 def menu_dev():
 	logo()
+        print(" []---------------------PUTXD-------------------")
 	print(" [] Bergabung   : %s"%(tgl))
 	print(" [] Github      : github.com/Putra-XD")
 	print(" [] Status      : %sPremium%s"% (H,N))
@@ -205,6 +206,7 @@ def menu_dev():
 	print(" [] Kadaluwarsa : lifetime")
 	print(" [] Author      : putraexzy")
 	print(" [] IP User     : %s\n"%(IP))
+        print(" []---------------------------------------------")
 	print(" %sPREMIUM USER ACCOUNT%s \n"%(K,N))
 	print(" 1. crack dari akun publik")
 	print(" 2. crack dari pencarian")

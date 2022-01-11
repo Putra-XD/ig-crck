@@ -198,13 +198,16 @@ def logo():
 ### MENU ###
 def menu_dev():
 	logo()
-	print(" [] Nomer Wa    : 082223578245")
+                                  [PUTRA-XD]
+        print(" []---------------------------------------------	
 	print(" [] Bergabung   : %s"%(tgl))
 	print(" [] Github      : github.com/Putra-XD")
 	print(" [] Status      : %sPremium%s"% (H,N))
+        print(" []---------------------------------------------
 	print(" [] Kadaluwarsa : lifetime")
-	print(" [] Author      : putzzexzy")
+	print(" [] Author      : putraexzy")
 	print(" [] IP User     : %s\n"%(IP))
+        print(" []---------------------------------------------
 	print(" %sPREMIUM USER ACCOUNT%s \n"%(K,N))
 	print(" 1. crack dari akun publik")
 	print(" 2. crack dari pencarian")

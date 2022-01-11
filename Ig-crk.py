@@ -198,7 +198,7 @@ def logo():
 ### MENU ###
 def menu_dev():
 	logo()
-	print(" [] Nomer WA    : 082223578245
+	print(" [] Nomer WA    : 082223578245")
 	print(" [] Bergabung   : %s"%(tgl))
 	print(" [] Github      : github.com/Putra-XD")
         print(" []---------------------------------------------")

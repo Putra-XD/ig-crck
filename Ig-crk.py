@@ -192,13 +192,7 @@ def login_dev():
 def logo():
 	os.system("clear")
 	print("""%s
- [ WELCOME TO Ig-crk.py ]
- _____               _ _
-|__  /_ __   ___  __| (_) __ _
-  / /| '_ \ / _ \/ _` | |/ _` |
- / /_| |_) |  __/ (_| | | (_| |
-/____| .__/ \___|\__,_|_|\__,_|
-     |_|
+ [ JANGAN DI SALAH GUNAKAN ]
  """%(N))
 
 ### MENU ###
@@ -209,7 +203,7 @@ def menu_dev():
 	print(" [] Github      : github.com/Putra-XD")
 	print(" [] Status      : %sPremium%s"% (H,N))
 	print(" [] Kadaluwarsa : lifetime")
-	print(" [] Instagram   : putzzexzy")
+	print(" [] Author      : putzzexzy")
 	print(" [] IP User     : %s\n"%(IP))
 	print(" %sPREMIUM USER ACCOUNT%s \n"%(K,N))
 	print(" 1. crack dari akun publik")
